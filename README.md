@@ -10,7 +10,7 @@
 
 ## Demo
 
-https://sub-t.github.io/blog-template/
+https://yuuiM.github.io/tech-blog/
 
 ## Features
 
@@ -24,7 +24,7 @@ https://sub-t.github.io/blog-template/
 ## Development
 
 ```bash
-git clone https://github.com/sub-t/blog-template project-name
+git clone https://github.com/yuuiM/tech-blog project-name
 cd project-name
 yarn
 yarn dev
